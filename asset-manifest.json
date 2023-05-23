@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/seoh/static/css/main.1c141381.css",
+    "main.js": "/seoh/static/js/main.8fb8e1b7.js",
+    "static/js/787.81dc7098.chunk.js": "/seoh/static/js/787.81dc7098.chunk.js",
+    "static/media/logo.svg": "/seoh/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/seoh/index.html",
+    "main.1c141381.css.map": "/seoh/static/css/main.1c141381.css.map",
+    "main.8fb8e1b7.js.map": "/seoh/static/js/main.8fb8e1b7.js.map",
+    "787.81dc7098.chunk.js.map": "/seoh/static/js/787.81dc7098.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c141381.css",
+    "static/js/main.8fb8e1b7.js"
+  ]
+}
